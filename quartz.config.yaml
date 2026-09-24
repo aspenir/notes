@@ -83,6 +83,11 @@ plugins:
     layout:
       position: right
       priority: 30
+  - source: github:quartz-community/latex
+    enabled: true
+    options:
+      renderEngine: katex
+    order: 25
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
