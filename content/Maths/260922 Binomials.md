@@ -10,6 +10,8 @@ It is easy to see how they convert into our familiar polynomial form:
 
 
 
+
+
 $$
 \begin{aligned}
 (a+b)^n&=\overbrace{ (a+b)(a+b)(a+b)\dots(a+b) }^{ n \text{ times} } \\
@@ -25,7 +27,11 @@ $$
 
 
 
+
+
 Where each term is of form $ka^rb^{n-r}$ where $k$ is a function of $n$ and $r$. This function is typically denoted as $n\choose r$ or $n_{C_{r}}$. This function returns the $r^{\text{th}}$ entry of the $n^{\text{th}}$ row of Pascal's triangle:
+
+
 
 
 
@@ -46,6 +52,8 @@ $$
 &&&&&\dots
 \end{matrix}
 $$
+
+
 
 
 

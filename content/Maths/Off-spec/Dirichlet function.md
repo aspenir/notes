@@ -10,12 +10,15 @@ $$
 
 
 
-$$
+
+
 \begin{cases}
 1&x\in \mathbb{Q} \\
 0&x\not\in \mathbb{Q}
 \end{cases}
 $$
+
+
 
 
 
@@ -40,12 +43,16 @@ We know that $\mathbb{Q}$ is countably infinite, whilst $\mathbb{Q}'$ is uncount
 
 
 
+
+
 $$
 \begin{aligned}
 \int_{0}^\infty 1_{\mathbb{Q}}(x)dx&=1\times 0 + 0\times 1 \\
 &=0
 \end{aligned}
 $$
+
+
 
 
 

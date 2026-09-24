@@ -20,6 +20,8 @@ All other units can be derived from these 7:
 
 
 
+
+
 $$
 \begin{aligned}
 \dim F &=\dim (ma) \\
@@ -28,6 +30,10 @@ $$
 \implies1\text{N}&=1\text{kg}\text{ m s}^{-2}
 \end{aligned}
 $$
+
+
+
+
 
 
 
@@ -54,6 +60,8 @@ $$
 \implies1\Omega&=1\text{kg m}^2 \text{s}^{-3}\text{A}^{-2}
 \end{aligned}
 $$
+
+
 
 
 

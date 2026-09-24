@@ -8,12 +8,16 @@ Ohm's law states that for any ohmic conductor at a given temperature, [[260914 E
 
 
 
+
+
 $$
 \begin{aligned}
 V&\propto I \\
 \implies R&\text{ is constant}
 \end{aligned}
 $$
+
+
 
 
 
@@ -37,11 +41,15 @@ Resistance decreases with temperature in semiconductors (such as thermistors) be
 
 
 
+
+
 $$
 \begin{aligned}
 R=R_{0}e^{\beta(\frac{1}{T}-\frac{1}{T_{0}})}
 \end{aligned}
 $$
+
+
 
 
 
@@ -62,11 +70,15 @@ Meanwhile, in metals, atoms vibrate when provided with more energy, causing elec
 
 
 
+
+
 $$
 \begin{aligned}
 R=R_{0}e^{\frac{\beta}{(\frac{1}{T}-\frac{1}{T_{0}})}}
 \end{aligned}
 $$
+
+
 
 
 

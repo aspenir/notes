@@ -18,12 +18,18 @@ and some other useful properties:
 
 
 
+
+
 $$
 \begin{aligned}
 a^b\times a^c&=\underbrace{ a\times a\times\dots\times a }_{ b+c \text{ times} } \\
 &= a^{b+c}
 \end{aligned}
 $$
+
+
+
+
 
 
 
@@ -65,6 +71,10 @@ $$
 
 
 
+
+
+
+
 $$
 \begin{aligned}
 \frac{a^b}{a^c}&=\underbrace{ a\times a\times \dots \times a }_{ b \text{ times} } \div\underbrace{  a\times a \times \dots \times a }_{ c \text{ times} } \\
@@ -72,6 +82,8 @@ $$
 &=a^{b-c}
 \end{aligned}
 $$
+
+
 
 
 
@@ -104,6 +116,8 @@ Simplify $(\sqrt{ 8 }-1)(\sqrt{ 2 }+3)$:
 
 
 
+
+
 $$
 \begin{aligned}
 (\sqrt{ 8 }-1)(\sqrt{ 2 }+3)&=\sqrt{ 8 }\sqrt{ 2 }-\sqrt{ 2 }+3\sqrt{ 8 }-3 \\
@@ -122,7 +136,11 @@ $$
 
 
 
+
+
 Write $\sqrt{ 75 }-\sqrt{ 27 }$ in the form $k\sqrt{ m }$, where $k,m\in \mathbb{Z}$\:
+
+
 
 
 
@@ -148,7 +166,11 @@ $$
 
 
 
+
+
 Express $\frac{7+\sqrt{ 5 }}{3+\sqrt{ 5 }}$ in the form $a+b\sqrt{ 5 }$:
+
+
 
 
 
@@ -176,7 +198,11 @@ $$
 
 
 
+
+
 Simplify $125^{-2/3}$:
+
+
 
 
 
@@ -202,7 +228,11 @@ $$
 
 
 
+
+
 Simplify $\frac{2x^{2}-x^{3/2}}{\sqrt{ x }}$ into the form $2x^p-x^q$:
+
+
 
 
 
@@ -228,7 +258,11 @@ $$
 
 
 
+
+
 Solve $2^{1-x}=4^x$:
+
+
 
 
 
@@ -255,7 +289,11 @@ $$
 
 
 
+
+
 Simplify $y^9\times y^{-3}\times (3y)^-2$:
+
+
 
 
 
@@ -271,6 +309,8 @@ y^9\times y^{-3}\times(3y)^{-2}&=\frac{y^6}{9y^{2}} \\
 &=\frac{y^4}{9}
 \end{aligned}
 $$
+
+
 
 
 

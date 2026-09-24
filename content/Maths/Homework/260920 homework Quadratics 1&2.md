@@ -8,6 +8,8 @@
 
 
 
+
+
 $$
 \begin{aligned}
 x^{2}+12x+5&=(x+6)^{2}-36+5 \\
@@ -23,7 +25,11 @@ $$
 
 
 
+
+
 2. Find $a, b, c$ such that $\forall x$, $4x^{2}+40x+97\equiv a(x+b)^{2}+c$:
+
+
 
 
 
@@ -48,7 +54,11 @@ $$
 
 
 
+
+
 3. Solve $x^4-3x^{2}-4=0$
+
+
 
 
 
@@ -77,7 +87,11 @@ $$
 
 
 
+
+
 4. Find $a$ and $b$ such that $x^{2}+6x+20\equiv(x+a)^{2}+b$, and hence find the vertex of $x^{2}+6x+20$ and greatest value of $\frac{1}{x^{2}+6x+20}$:
+
+
 
 
 
@@ -110,7 +124,11 @@ $$
 
 
 
+
+
 5. Solve $2x-3=5\sqrt{ x }$:
+
+
 
 
 
@@ -147,7 +165,11 @@ $$
 
 
 
+
+
 6. Express $3x^{2}+4x+1$ in the form $a(x+b)^2+c$, and then find the vertex of $y=3x^2+4x+1$
+
+
 
 
 
@@ -174,7 +196,11 @@ $$
 
 
 
+
+
 7. Solve $x^3-8x^{-3}=7$:
+
+
 
 
 
@@ -208,7 +234,11 @@ $$
 
 
 
+
+
 8. Find $p, q, r$ such that $2x^2-12x+p\equiv q(x-r)^{2}+10$
+
+
 
 
 
@@ -238,7 +268,11 @@ $$
 
 
 
+
+
 9. Given that $f(x)=x^{2}+4kx+3+11k$ has one root, write $f(x)$ in form $(x+a)^2+b$ and find the set of possible values for $k$:
+
+
 
 
 
@@ -277,7 +311,11 @@ $$
 
 
 
+
+
 10. Solve
+
+
 
 
 
@@ -299,7 +337,11 @@ $$
 
 
 
+
+
 .
+
+
 
 
 
@@ -357,7 +399,11 @@ $$
 
 
 
+
+
 11. Use this to solve
+
+
 
 
 
@@ -370,6 +416,10 @@ $$
 $$
 \begin{cases}x^4-3y^4+11=0 \\\\\\\\  x^2+3y^2=7\end{cases}
 $$
+
+
+
+
 
 
 
@@ -429,7 +479,11 @@ $$
 
 
 
+
+
 1. Solve $2+3(x-4)<3(2x-5)$:
+
+
 
 
 
@@ -459,7 +513,11 @@ $$
 
 
 
+
+
 2. Solve $x^{2}-7x-18>0$:
+
+
 
 
 
@@ -494,7 +552,11 @@ $$
 
 
 
+
+
 3. Solve $2x^{2}+(p+1)x+8=0$, given that it has one real root:
+
+
 
 
 
@@ -523,7 +585,11 @@ $$
 
 
 
+
+
 4. Explain why $\forall x, -x^{2}+4x-7<0$
+
+
 
 
 
@@ -552,7 +618,11 @@ $$
 
 
 
+
+
 5.
+
+
 
 
 
@@ -607,7 +677,11 @@ $$
 
 
 
+
+
 6. $x^{2}+kx+8=k$ has no real solutions. Show that $k^{2}+4k-32<0$ and find the set of values for $k$:
+
+
 
 
 
@@ -646,7 +720,11 @@ $$
 
 
 
+
+
 7. Complete the square of $x^{2}+2x+3$, and find all axis intercepts and find discriminant.
+
+
 
 
 
@@ -677,7 +755,11 @@ $$
 
 
 
+
+
 8. Find the discriminant of $3x^2+5x+8$, and the amount of points of intersection with the $x$ axis. Then show that $y=11x+5$ is tangential.
+
+
 
 
 
@@ -706,7 +788,11 @@ $$
 
 
 
+
+
 A tangent will only touch the quadratic once, so thus we can use the discriminant to determine if its a tangent
+
+
 
 
 
@@ -727,6 +813,8 @@ $$
 \implies \text{it is a tangent}
 \end{aligned}
 $$
+
+
 
 
 

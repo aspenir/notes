@@ -13,6 +13,8 @@ There are many ways of solving quadratic equations. Given $x^{2}+bx+c=0$, we can
 
 
 
+
+
 $$
 \begin{aligned}
 x^{2}+bx+c&=0 \\
@@ -40,7 +42,11 @@ $$
 
 
 
+
+
 e.g.
+
+
 
 
 
@@ -70,7 +76,11 @@ $$
 
 
 
+
+
 e.g.
+
+
 
 
 
@@ -104,7 +114,11 @@ $$
 
 
 
+
+
 OR
+
+
 
 
 
@@ -134,7 +148,11 @@ $$
 
 
 
+
+
 e.g.
+
+
 
 
 
@@ -172,8 +190,12 @@ $$
 
 
 
+
+
 ### Completing the square
 What if our roots are not in $\mathbb{Q}$? We can't factorise irrational numbers, so we must complete the square:
+
+
 
 
 
@@ -208,9 +230,13 @@ $$
 
 
 
+
+
 Completing the square also lets us find the turning point of a quadratic. Considering the general form $f(x)=n(x-p)^{2}+q$, the minimum value of $(x-p)^{2}$ (when $n >0$) is $0$, so the turning point lies at $x=p$. When $n<0$, the maximum value of $(x-p)^{2}$ is also $0$, so the turning point again lies upon $x=p$.
 
 e.g. Find the vertex for $y=-2x^{2}+6x-5$ , hence prove that $\forall x\in \mathbb{R}, -2x^{2}+6x-5<0$
+
+
 
 
 
@@ -242,10 +268,14 @@ $$
 
 
 
+
+
 Since $n<0$, this vertex is the maximum point, and $y<0$ in it, so therefore all values of $y$ when $x\in \mathbb{R}$ are less than 0.
 
 e.g. Find the minimum value of $\frac{1}{-2x^{2}+6x-5}$:
 We know that the minimum value of any identity $\frac{1}{y}$ is when $y$ is at its greatest value, so we must find the maximum of $-2x^{2}+6x-5$:
+
+
 
 
 
@@ -273,8 +303,12 @@ $$
 
 
 
+
+
 ### Disguised quadratics
 Consider $x^4-5x^{2}-36=0$. We can make this into a quadratic. Let $y=x^{2}$:
+
+
 
 
 
@@ -300,9 +334,13 @@ $$
 
 
 
+
+
 However, since $y=x^{2}$, $y$ cannot be negative, so $x=\pm 3$.
 
 e.g.
+
+
 
 
 
@@ -335,10 +373,14 @@ $$
 
 
 
+
+
 ##### Why doesn't $x=9$ work?
 Since $y=\sqrt{ x }$, $y\geq0$, so $y=-3$ does not fulfill all criteria for a solution, and therefore $x=9$ does not either.
 ### The quadratic formula
 The quadratic formula can be derived from completing the square:
+
+
 
 
 
@@ -367,9 +409,13 @@ $$
 
 
 
+
+
 ### Inequalities
 e.g. Solve $3x^{2}+4x+1\leq0$, giving your answer as an interval.
 We begin by finding the critical values:
+
+
 
 
 
@@ -395,7 +441,11 @@ $$
 
 
 
+
+
 These critical values split $\mathbb{R}$ into three intervals that we must check: $x\in(-\infty, -1], \left( -1,-\frac{1}{3} \right), [-\frac{1}{3},\infty)$.
+
+
 
 
 
@@ -430,9 +480,13 @@ $$
 
 
 
+
+
 Now we have the solution interval: $x\in\left( -1,-\frac{1}{3} \right)$.
 
 e.g.
+
+
 
 
 
@@ -456,7 +510,11 @@ $$
 
 
 
+
+
 We begin by finding the critical values:
+
+
 
 
 
@@ -484,7 +542,11 @@ $$
 
 
 
+
+
 ..and testing both intervals $x\in\left[ -\infty,-\frac{1}{2}),(-\frac{1}{2},\infty \right]$:
+
+
 
 
 
@@ -509,7 +571,11 @@ $$
 
 
 
+
+
 So we have the solution $x\in (-\infty, -\frac{1}{2}]$. But, we made a critical error in our solution - $(x+1)$ could be negative, meaning we would have to switch our $<$ to a $>$. So... we have to divide our problem into two cases, or avoid multiplying by unknowns like so[^1]:
+
+
 
 
 
@@ -536,7 +602,11 @@ $$
 
 
 
+
+
 Which gives us two values where the numerator and denominator change sign:
+
+
 
 
 
@@ -565,7 +635,11 @@ $$
 
 
 
+
+
 Giving us our three intervals of $\mathbb{R}$: $x\in \left( -\infty,-1 \right], \left( -1, -\frac{1}{2} \right), \left[ -\frac{1}{2},\infty \right)$:
+
+
 
 
 
@@ -592,6 +666,8 @@ $$
 
 
 
+
+
 So therefore $x\in \left\{  y:y\in \mathbb{R}\land \left[(y< -1)\space\lor\space (y>-\frac{1}{2}) \right] \right\}$. 
 
 ### The Discriminant
@@ -605,6 +681,8 @@ For any quadratic $E$:
 - When $\Delta<0$, $E$ has no real solution
 
 e.g. Given that $4x^{2}-(k+3)x+9=0$ has one root. Determine $k$:
+
+
 
 
 
@@ -640,7 +718,11 @@ $$
 
 
 
+
+
 e.g. The equation $x^{2}+(m+4)x+(4m+1)=0$ has two distinct real roots. Find the set of possible values for $m$:
+
+
 
 
 
@@ -669,7 +751,11 @@ $$
 
 
 
+
+
 We then find our critical values:
+
+
 
 
 
@@ -695,7 +781,11 @@ $$
 
 
 
+
+
 And consider each set $m\in(-\infty,2),[2,6],(6,\infty)$:
+
+
 
 
 
@@ -721,9 +811,13 @@ $$
 
 
 
+
+
 So therefore $m\in \{ n:n\in (-\infty,2)\space\cup\space(6,\infty) \}$.
 
 e.g. Find the range of values of $k$ such that the quadratic $x^{2}+(k+4)x+k+7$ is positive for all values of $x$:
+
+
 
 
 
@@ -750,7 +844,11 @@ $$
 
 
 
+
+
 We find the critical values of $k$:
+
+
 
 
 
@@ -776,7 +874,11 @@ $$
 
 
 
+
+
 And test the three intervals $k\in(-\infty,-6), [-6,2], (2,\infty)$:
+
+
 
 
 
@@ -794,6 +896,8 @@ k^{2}+4k-12\Big\vert_{k=3}&=9 \\
 
 \end{aligned}
 $$
+
+
 
 
 

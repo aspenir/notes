@@ -8,6 +8,8 @@ When placed in an electric field, a charge will experience a force, gaining ener
 
 
 
+
+
 $$
 \begin{aligned}
 F&=Eq \\
@@ -23,7 +25,11 @@ $$
 
 
 
+
+
 This energy per unit charge is known as electric potential, and is measured in volts ($V$).
+
+
 
 
 
@@ -48,7 +54,11 @@ $$
 
 
 
+
+
 This electric field strength is dependent on potential difference and distance of conductor:
+
+
 
 
 
@@ -64,6 +74,8 @@ E&=\frac{V}{d} \\
 [\mathsf{M}\mathsf{L}\mathsf{T}^{-3}\mathsf{I}^{-1}]&=\frac{[\mathsf{M}\mathsf{L}^2\mathsf{T}^{-3}\mathsf{I}^{-1}]}{[\mathsf{L}]}
 \end{aligned}
 $$
+
+
 
 
 

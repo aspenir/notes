@@ -8,6 +8,8 @@
 
 
 
+
+
 $$
 \begin{aligned}
 \frac{(x^2)^{-2}}{x^3}&=\frac{x}{x^3} \\
@@ -23,7 +25,11 @@ $$
 
 
 
+
+
 -2
+
+
 
 
 
@@ -48,7 +54,11 @@ $$
 
 
 
+
+
 2. i) Simplify $\frac{\left( x^\frac{2}{3} x^\frac{1}{2}\right)}{x^{\frac{1}{6}}}$
+
+
 
 
 
@@ -74,7 +84,11 @@ $$
 
 
 
+
+
 ii) Simplify $(16x^{12})^\frac{3}{4}$:
+
+
 
 
 
@@ -100,7 +114,11 @@ $$
 
 
 
+
+
 3) Find a counterexample to $\forall n\in \mathbb{Z},10n^{2}+39n+36>0$:
+
+
 
 
 
@@ -137,7 +155,11 @@ $$
 
 
 
+
+
 4) i) Express $\sqrt{ 50 } + \frac{6}{\sqrt{ 3 }}$ in the form $a\sqrt{ 2 }+b\sqrt{ 3 }$:
+
+
 
 
 
@@ -163,7 +185,11 @@ $$
 
 
 
+
+
 ii) Express $\frac{1-\sqrt{ 5 }}{3+\sqrt{ 5 }}$ in the form $a+b\sqrt{ 5 }$:
+
+
 
 
 
@@ -191,8 +217,12 @@ $$
 
 
 
+
+
 5) Prove that for $\forall n\in \mathbb{N},n^{2}\bmod{4}\in\{0,1\}$:
 For even $n$ - let $n=2k,k\in \mathbb{N}$;
+
+
 
 
 
@@ -219,7 +249,11 @@ $$
 
 
 
+
+
 For odd $n$ - let $n=2k+1,k\in \mathbb{N}$;
+
+
 
 
 
@@ -247,8 +281,12 @@ $$
 
 
 
+
+
 # Don't use mod!!!!
 Take $n$ even:
+
+
 
 
 
@@ -273,7 +311,11 @@ $$
 
 
 
+
+
 Take $n$ odd:
+
+
 
 
 
@@ -300,7 +342,11 @@ $$
 
 
 
+
+
 6) Find the area of a rectangle with sides $(4-\sqrt{ 5 })$cm and $(3+2\sqrt{ 5 })$cm
+
+
 
 
 
@@ -326,7 +372,11 @@ $$
 
 
 
+
+
 7) i) Simplify $2x^\frac{2}{3}\times 3x^{-1}$:
+
+
 
 
 
@@ -352,7 +402,11 @@ $$
 
 
 
+
+
 ii) Simplify $2^{40}\times 4^{30}$:
+
+
 
 
 
@@ -379,7 +433,11 @@ $$
 
 
 
+
+
 8) i) Solve $x^\frac{1}{3}=2$:
+
+
 
 
 
@@ -405,7 +463,11 @@ $$
 
 
 
+
+
 ii) Solve $10^t=1$:
+
+
 
 
 
@@ -431,7 +493,11 @@ $$
 
 
 
+
+
 iii) Solve $(y^{-2})^2$=81:
+
+
 
 
 
@@ -459,9 +525,13 @@ $$
 
 
 
+
+
 9) Given that $\pi$ is irrational, prove that $\sqrt{ \pi }$ is also irrational:
 We begin by assuming that $\sqrt{ \pi }$ _is_ rational:
 $$\sqrt{ \pi }=\frac{a}{b},a\in \mathbb{Z},b\in \mathbb{N}$$
+
+
 
 
 
@@ -489,8 +559,12 @@ $$
 
 
 
+
+
 Since it is given that $\pi$ is irrational, then $\sqrt{ \pi }$ must also be irrational.
 10) Solve $81^y=27^{1-y}$:
+
+
 
 
 
@@ -522,7 +596,11 @@ $$
 
 
 
+
+
 11) i) Given that $\forall x>0,f(x)=\frac{(3-4\sqrt{ x })^2}{\sqrt{ x }}$, show that $f(x)=9x^{-\frac{1}{2}}+Ax^\frac{1}{2}+B,A\in \mathbb{Z},B\in \mathbb{Z}$:
+
+
 
 
 
@@ -549,7 +627,11 @@ $$
 
 
 
+
+
 ii) Express $\frac{2\sqrt{ 2 }}{\sqrt{ 3 }-1}-\frac{2\sqrt{ 3 }}{\sqrt{ 2 }-1}$ in the form $p\sqrt{ 6 }+q\sqrt{ 3 }+r\sqrt{ 2 },p\in \mathbb{Z},q\in \mathbb{Z},r\in \mathbb{Z}$:
+
+
 
 
 
@@ -578,7 +660,11 @@ $$
 
 
 
+
+
 12) Given that $\frac{8^n\times 2^{2n}}{4^{3n}}=2^{kn},n\neq 0$, determine $k$:
+
+
 
 
 
@@ -606,8 +692,12 @@ $$
 
 
 
+
+
 13) Prove that the product of two odd integers is always odd:
 Let $a=2n+1,n\in \mathbb{Z}$, $b=2k+1,k\in \mathbb{Z}$:
+
+
 
 
 
@@ -624,6 +714,8 @@ ab&=(2n+1)(2k+1) \\
 &=2(2nk+n+k)+1
 \end{aligned}
 $$
+
+
 
 
 

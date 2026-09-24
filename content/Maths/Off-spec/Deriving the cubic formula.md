@@ -10,6 +10,8 @@ Galois proved that order 5 polynomials are NOT solveable through a radical solut
 
 
 
+
+
 $$
 \begin{aligned}
 x^{2}-4x+1&=0 \\
@@ -28,7 +30,11 @@ $$
 
 
 
+
+
 ## The derivation
+
+
 
 
 
@@ -70,6 +76,8 @@ u^{2}+bu-\frac{a^{3}}{27}&=0 \\
 
 \end{aligned}
 $$
+
+
 
 
 
