@@ -1,22 +1,17 @@
 The Dirichlet function is a pathological function defined over $\mathbb{R}$ as
 $$
 1_{\mathbb{Q}}(x)=
-
-
-
-
-
-
-
-
-
-
-
 \begin{cases}
-1&x\in \mathbb{Q} \\
-0&x\not\in \mathbb{Q}
+1&x\in \mathbb{Q} \\\\\
+0&x\notin \mathbb{Q}
 \end{cases}
 $$
+
+
+
+
+
+
 
 
 
@@ -35,31 +30,12 @@ $1_{\mathbb{Q}}$ is not Riemann-integrable, but it _is_ Lebesgue-integrable, as 
 
 We know that $\mathbb{Q}$ is countably infinite, whilst $\mathbb{Q}'$ is uncountably infinite, so by measure theory, $\mathbb{Q}$ has measure $0$, whilst $\mathbb{Q}'$ has measure $1$, so
 
-
-
-
-
-
-
-
-
-
-
 $$
 \begin{aligned}
-\int_{0}^\infty 1_{\mathbb{Q}}(x)dx&=1\times 0 + 0\times 1 \\
+\int_{0}^\infty 1_{\mathbb{Q}}(x)dx&=1\times 0 + 0\times 1 \\\\\
 &=0
 \end{aligned}
 $$
-
-
-
-
-
-
-
-
-
 
 
 ##### But... there are values when $1_\mathbb{Q}$ are obviously not 0?

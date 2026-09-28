@@ -12,12 +12,24 @@ This _mean drift velocity_ can be calculated using:
 
 
 
+
+
+
+
 $$
+
+$
 \begin{aligned}
-I&=nAve \\
+I&=nAve \\\\\
 [\mathsf{I}]&=[\mathsf{L}^{-3}][\mathsf{L}^2][\mathsf{L}\mathsf{T}^{-1}][\mathsf{I}\mathsf{T}]
 \end{aligned}
+$
+
 $$
+
+
+
+
 
 
 
