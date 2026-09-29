@@ -25,7 +25,7 @@ Multiplication is more convoluted (literally..). Given $p_1$ and $p_2$ defined s
 $$\begin{align}
 (p_{1}\times p_{2})(x)=\sum_{s=0}^{n+m}{\left(x^k\sum_{j=0}^s{p_{j}q_{k-j}}\right)}
 \end{align}$$
-Note how similar this process is to convolution!
+Note how similar this process is to [[Convolution|convolution]]!
 
 ### Division
 Polynomial division is typically done through long division with place value replaced with exponents of $x$

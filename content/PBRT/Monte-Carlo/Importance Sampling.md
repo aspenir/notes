@@ -2,7 +2,7 @@ Importance sampling exploits the fact that [[Non-uniform Monte-Carlo|Monte-Carlo
 
 Obviously, we do not know the integral yet, so we cannot just use $p(x)=\int^a_b f(x)dx$, but we can approximate it using cheap functions, such as piecewise functions that return an expected fractional frequency of a certain range, or similar Gaussian approximations.
 
-(2 The problem of multiple distributions
+### The problem of multiple distributions
 Sometimes, there are multiple terms in an integral, with different probability distributions that are ideal for each. Consider the case where $f(x) = a(x)b(x)$, where $p_a(x)$ is ideal for $a(x)$, and vice versa.
 
 Now, obviously, we could use one of the two, giving us a variance of roughly $f(a)$, or roughly $f(b)$. However, variance is additive (TODO), and in a integral with alot of such products, such as a BRDF, this variance would quickly take its toll...

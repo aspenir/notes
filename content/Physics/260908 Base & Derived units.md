@@ -12,64 +12,17 @@ There are 7 SI (Systéme International) base units:
 
 All other units can be derived from these 7:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 $$
-
-$
 \begin{aligned}
 \dim F &=\dim (ma) \\\\\
 &=[\mathsf{M}][\mathsf{L}\mathsf{T}^{-2}] \\\\\
 &=[\mathsf{M}\mathsf{L}\mathsf{T}^{-2}] \\\\\
 \implies1\text{N}&=1\text{kg}\text{ m s}^{-2}
 \end{aligned}
-$
-
 $$
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 $$
-
-$
 \begin{aligned}
 \dim R &= \dim \left( \frac{V}{I} \right) \\\\\
 &= \dim \left( \frac{P}{I} \right)[\mathsf{I}^{-1}] \\\\\
@@ -77,12 +30,10 @@ $
 &=[\mathsf{M}\mathsf{L}^2\mathsf{T}^{-3}\mathsf{I}^{-2}] \\\\\
 \implies1\Omega&=1\text{kg m}^2 \text{s}^{-3}\text{A}^{-2}
 \end{aligned}
-$
-
 $$
 
-(2 SI prefixes
-Sometimes we use measurements that are so large or small that its unwieldy to use the SI unit to represent them. The system provides a set of prefixes in multiples of $10^3$ to make this easier
+### SI prefixes
+Sometimes we use measurements that are so large or small that its unwieldy to use the SI unit to represent them. The system provides a set of prefixes in multiples of $10^3$to make this easier:
 
 | Prefix | Symbol      | Multiplier |
 | ------ | ----------- | ---------- |

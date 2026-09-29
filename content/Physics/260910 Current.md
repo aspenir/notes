@@ -2,45 +2,12 @@ When a potential difference is induced across a conductor, the positive potentia
 
 This _mean drift velocity_ can be calculated using:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 $$
-
-$
 \begin{aligned}
 I&=nAve \\\\\
 [\mathsf{I}]&=[\mathsf{L}^{-3}][\mathsf{L}^2][\mathsf{L}\mathsf{T}^{-1}][\mathsf{I}\mathsf{T}]
 \end{aligned}
-$
-
 $$
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 where:
 - $I$ is the current
 - $n$ is the number density (amount of charge carriers per unit volume)
