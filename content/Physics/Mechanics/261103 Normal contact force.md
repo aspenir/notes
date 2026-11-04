@@ -1,0 +1,1 @@
+The normal contact force is a force resulting from Newton's Third Law, which acts perpendicularly to the surface on which an object rests.

@@ -40,4 +40,3 @@ $$
 $$
 \mathcal F \{ f(t) \}=F(\omega) \implies \mathcal F \{ F(t) \}=2 \pi f(-\omega)
 $$
-

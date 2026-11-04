@@ -31,8 +31,14 @@ $$
 L^p(\Omega)\triangleq \left\{  f:\Omega\to \mathbb{R} \ \middle\vert \int_{\Omega} |f(x)|^p dx < \infty  \right\}
 $$
 This is the set of functions whose area is finite when raised to an exponent $p$.
+
 ##### $W^{k,p}(\Omega)$ - Sobolev spaces
 $$
 W^{k,p}(\Omega)\triangleq\left\{ f:\Omega\to \mathbb{R}\ \middle\vert\ \forall j\in \{x:x\in\mathbb{N}_{0},x<k\},f^{(j)}\in L^p(\Omega) \right\}
 $$
-This is the set of functions who have $k$ differentials (as well as themselves themselves) that are members of $L^p(\Omega)$
+This is the set of functions who have $k$ differentials (as well as themselves themselves) that are members of $L^p(\Omega)$.
+
+N.B. the set $W^{k,2}$ is closely related to the Fourier transform and is often called a Hilbert space, or $H^k$. It can be defined in terms of the Fourier series with rapidly decaying coefficients.
+$$
+	H^k(\Omega)\triangleq \left\{ f\in L^2(\mathbb{T})\middle| \sum_{n=-\infty}^\infty \left[\left( \sum_{j=0}^kn^k \right)\left|\mathcal{F}\{ f \}(n)\right|^{2}\right]<\infty \right\}
+$$

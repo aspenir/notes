@@ -1,0 +1,8 @@
+- Spatial acceleration time-memory trades (e.g. BVH hierarchy tree traversal, kD trees, SDF textures)
+- Russian roulette termination
+- Next event estimation
+- Adaptive splitting
+- PDFs(?)
+- ReSTIR
+- Denoising algorithms (e.g. normal guided denoising)
+- wavelength tracing (hero wavelengths / chromatic noise)

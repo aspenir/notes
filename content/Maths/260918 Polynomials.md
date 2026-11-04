@@ -41,13 +41,17 @@ q(x)&\triangleq \frac{p(x)-r}{d(x)} \\
 p\left(-\frac{b}{a}\right)&=q\left( -\frac{b}{a} \right)\left( a\left( -\frac{b}{a} \right)+b \right)+r \\
 &=q\left( -\frac{b}{a} \right)(-b+b)+r \\
 &=0\times q\left( -\frac{b}{a} \right)+r \\
-&=r
+&\implies \boxed{\  p\left( -\frac{b}{a} \right)=r\ }
 \end{align}$$
 ### The factor theorem
 If $p\left( -\frac{b}{a} \right)=0$, $ax+b$ divides $p(x)$.
-##### Proof:
+##### Proof: 
 This is a collary to the [[260918 Polynomials#The remainder theorem|remainder theorem]]:
 $$\begin{align}
 p\left( -\frac{b}{a} \right)&=r \\
-\therefore p\left( -\frac{b}{a} \right)=0\iff r&=0 \\
+\therefore \boxed{p\left( -\frac{b}{a} \right)=0\iff r=0} \\
 \end{align}$$
+# Irreducible polynomials
+A polynomial is said to be _irreducible_ over a set if it has no roots over a field. This means it cannot be factorised with factors from said set. Generally when we state a polynomial is irreducible without specifying a set, we mean it is irreducible over $\mathbb{Q}$ or $\mathbb{R}$.
+
+Only polynomials of degree 1 or 2 can be irreducible over $\mathbb{R}$.

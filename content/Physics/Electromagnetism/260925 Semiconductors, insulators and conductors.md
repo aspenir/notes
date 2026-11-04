@@ -7,6 +7,8 @@ Conductors are metallic lattices containing delocalised electrons that can carry
 
 Resistivity increases with temperature as atoms in the lattice vibrate more vigorously, causing more collisions between charge carrying electrons and nuclei, causing a lower charge carrier mobility and thus a lesser current and a greater resistance.
 
+Some conductors become [[260925 Superconductors|superconductors]] at a sufficiently low temperature.
+
 ### Semiconductors
 Semiconductors are materials that contain electrons that are delocalised under certain conditions.
 

@@ -4,6 +4,17 @@ $$
 $$
 It is often visually explained as "sliding" one function over another by value $\tau$, and taking the area that both "overlap".
 
+```desmos-graph
+left= -5;right=5;
+bottom=-2;top=3;
+---
+f(x)=e^{-x^2} | #57b4a0
+g(x)=\frac{1}{x^2+1} | #64a9ca
+(1,0.5) | label:(1/(x^2+1)) | #64a9ca
+(4,e^{-16}) | label:(e^(-x^2)) | #57b4a0
+(0,h(0)) | label:(f * g(x)) | #fd96a9
+h(x)=\int_{-\infty}^{\infty} f(t)g(x-t)dt | #fd96a9
+```
 ### Properties
 ##### Commutative
 $$

@@ -1,0 +1,19 @@
+##### F-35 article
+- Development of F-35's manufacturing process over time
+	- Introduction of laser scanner rather than manual fit checks
+	- Introduction of laser ultrasonic scanning to detect wing imperfections
+	- AI-based quality control
+	- AR-based training
+- the next step (block 4)
+	- Modernisation of P&W F-135 engine
+	- New core processor
+	- New panoramic display
+	- New memory layout
+- changing production from F-16 to F-35
+	- some changes were simple - just change the tooling jigs
+	- other changes were not so simple - equipment was bigger so floors had to be demolished
+- adaptability
+	- F-35A/F-35B/F-35C only share ~20% of parts, but are all made in the same facility.
+- introduction of operation cards
+	- touch labour do not need to know every detail about the plane
+	- 1,700 operation cards required

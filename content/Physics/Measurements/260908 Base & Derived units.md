@@ -1,15 +1,14 @@
 There are 7 SI (Systéme International) base units:
 
-| Quantity               | $\dim Q$ | Unit name | Unit symbol |
-| ---------------------- | -------- | --------- | ----------- |
-| Mass                   | $M$      | kilogram  | kg          |
-| Time                   | $T$      | second    | s           |
-| Length                 | $L$      | metre     | m           |
-| Current                | $I$      | ampere    | A           |
-| Temperature            | $\Theta$ | kelvin    | K           |
-| Amount                 | $N$      | mole      | mol         |
-| Luminous <br>intensity | $J$      | candela   | cd          |
-
+| Quantity                    | $\dim Q$ | Unit name | Unit symbol |
+| --------------------------- | -------- | --------- | ----------- |
+| Mass                        | $M$      | kilogram  | kg          |
+| Time                        | $T$      | second    | s           |
+| [[260929 Motion\|Length]]   | $L$      | metre     | m           |
+| [[260910 Current\|Current]] | $I$      | ampere    | A           |
+| Temperature                 | $\Theta$ | kelvin    | K           |
+| Amount                      | $N$      | mole      | mol         |
+| Luminous <br>intensity      | $J$      | candela   | cd          |
 All other units can be derived from these 7:
 
 $$
